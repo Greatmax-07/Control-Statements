@@ -1,9 +1,7 @@
 #include<stdio.h>
-char Age;
 int region;
 float age, h1, h2, h3, h4, h5, h6;
-float score;
-float Eng, Lang2, Lang3, Maths, Sci, SST; 
+float score; 
 int main(){
     printf("**Check if you are eligible to apply for Soldier(General Duty)(All Arms)**\n\n");
     printf("Enter your age:");
