@@ -6,7 +6,6 @@ int main(){
     printf("**Check if you are eligible to apply for Soldier(General Duty)(All Arms)**\n\n");
     printf("Enter your age:");
     scanf("%f",&age);
-    scanf("%c",&Age);
     if(age>=17.5&&age<=21.0){
         printf("You fulfill this criteria and may proceed further.\n\n");
         printf("Educational Criteria:\n");
